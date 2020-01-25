@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+  
+}
+
+.sidebar {
+  width: 225px;
+  height: 100vh;
+  background-color: #8A2BE2;
+}
+
+.sidebar p {
+  padding: 25px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  float: left;
+  width: 100%;  
+}
+
+.sidebar li a {
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 18px;
+  color: white; 
+}
+
+li a:hover {
+  background-color: #8B008B;
+}
