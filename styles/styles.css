@@ -54,3 +54,7 @@ li a:hover {
   color: #A9A9A9;
   text-shadow: 4px 4px 1px #8A2BE2;
 }
+
+.clear {
+  clear: both;
+}
