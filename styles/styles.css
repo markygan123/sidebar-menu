@@ -43,7 +43,7 @@ li a:hover {
   width: 80%;
   margin-left: 2%;
   padding: 15px;
-  float: left;
+  display: inline-block;
 }
 
 .content h1 {
